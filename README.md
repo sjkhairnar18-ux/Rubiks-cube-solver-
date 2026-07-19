@@ -1,4 +1,4 @@
-# Rubiks-cube-solver-
+Rubik's Cube Solver
 A high-performance C++ implementation of various algorithms to solve the classic 3x3x3 Rubik's Cube. This project implements multiple cube representations and solving algorithms, with a focus on optimization and algorithm comparison.
 
 Features
