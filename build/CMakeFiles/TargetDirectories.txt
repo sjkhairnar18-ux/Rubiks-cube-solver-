@@ -1,0 +1,3 @@
+C:/Users/23ish/ProgrammingStuff/Projects/rubiksCube/SolveTheCube/build/CMakeFiles/rubiks_cube_solver.dir
+C:/Users/23ish/ProgrammingStuff/Projects/rubiksCube/SolveTheCube/build/CMakeFiles/edit_cache.dir
+C:/Users/23ish/ProgrammingStuff/Projects/rubiksCube/SolveTheCube/build/CMakeFiles/rebuild_cache.dir
